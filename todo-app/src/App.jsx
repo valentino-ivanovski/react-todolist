@@ -51,7 +51,7 @@ const [selectedTab, setSelectedTab] = useState("Open")
   useEffect(() => {
     if (!localStorage || !localStorage.getItem('todo-app')) {return}
     let db = JSON.parse(localStorage.getItem('todo-app'))
-    setTodos(db, todos)
+    setTodos(db.todos)
   }, [])  
 
   return (
