@@ -134,6 +134,7 @@ body {
     background-size: 100%;
     -webkit-box-decoration-break: clone;
     opacity: 90%;
+    cursor: default;
 }
 
 
