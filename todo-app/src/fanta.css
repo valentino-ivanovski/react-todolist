@@ -585,7 +585,8 @@ details[open] summary {
     color: var(--color-primary);
     padding: 1rem;
     border-radius: 0.5rem;
-    margin: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .card {
