@@ -22,7 +22,7 @@ export function Header(props) {
         return (
             <div className="fullscreen-message">
                 <div className='message'>
-                <span className="heart">♥</span><span className="heart">♥</span><span className="heart">♥</span>I love you Lolita!<span className="heart">♥</span><span className="heart">♥</span><span className="heart">♥</span>
+                <span className="heart">♥</span>I love you Lolita!<span className="heart">♥</span>
                 </div>
                 <button className="close-button" onClick={handleClose}>Close</button>
             </div>
