@@ -4,7 +4,7 @@ It features a couple of simple features:
 2. Marking note as done
 3. Deleting note
 
-Each note is being saved onto local memory and the notes will not disappear after refressing the site.
+Each note is being saved onto local memory and the notes will not disappear after refreshing the page.
 
 The site has both light and dark modes.
 
